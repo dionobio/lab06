@@ -1,0 +1,8 @@
+.table2{
+    border-collapse: collapse;
+    text-align: center;
+    border-color: #32a2a8;
+}
+.table2 th{
+    background-color: rgb(104, 104, 248);
+}
